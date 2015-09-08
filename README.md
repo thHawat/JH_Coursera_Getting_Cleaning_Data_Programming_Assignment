@@ -24,5 +24,4 @@ it requires the dplyr package.
 * it renames all the columns
 * and it finally summarises all the variables with the mean functions, group by subject and activity. In order to avoid to make a loop on the columns, the summarise_each functions is used to apply a mean function on all the columns except the subject and activity ones
 
-truc
   
