@@ -22,5 +22,7 @@ it requires the dplyr package.
 * it binds with the activity and use the activity labels. For this, it uses the match function, which associates each activity_id from the train and test files with the right label from the activity_labels file
 * it binds with the result with the subject 
 * it renames all the columns
-* and it finally summarises all the variables with the mean functions, group by subject and activity. In order to avoid to malke a loop on the columns, the summarise_each functions is used to apply a mean function on all the columns except the subject and activity ones
+* and it finally summarises all the variables with the mean functions, group by subject and activity. In order to avoid to make a loop on the columns, the summarise_each functions is used to apply a mean function on all the columns except the subject and activity ones
+
+truc
   
