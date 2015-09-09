@@ -27,9 +27,9 @@ The dataset includes the following files:
 
 - ‘Codebook.txt'
 
-- 'features_info.txt': Shows information about the columns of the Data set.
+- ‘README.md’ : describes how the original data were processed
 
-- ‘Samsung_Mean_By_subject_activity.txt’ : the dataset it self
+- ‘Samsung_Mean_By_subject_activity.txt’ : the dataset itself
 
 Notes: 
 ======
