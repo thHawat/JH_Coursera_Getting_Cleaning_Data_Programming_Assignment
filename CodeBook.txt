@@ -25,11 +25,11 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 The dataset includes the following files:
 =========================================
 
-- ‘Codebook.txt'
+- 'Codebook.txt'
 
-- ‘README.md’ : describes how the original data were processed
+- 'README.md' : describes how the original data were processed
 
-- ‘Samsung_Mean_By_subject_activity.txt’ : the dataset itself
+- 'Samsung_Mean_By_subject_activity.txt' : the dataset itself
 
 Notes: 
 ======
